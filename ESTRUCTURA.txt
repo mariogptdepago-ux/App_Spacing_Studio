@@ -1,0 +1,14 @@
+SUBIR TODO EL CONTENIDO DE ESTA CARPETA AL REPOSITORIO.
+
+Estructura:
+README.md
+.gitignore
+ESTRUCTURA.txt
+apps_script/
+  Code.gs
+  Index.html
+  appsscript.json
+  App_Numerico_AP4_EJE1_D1_Grado11.html
+  App_RefuerzoAcumulativo_AP4_EJE1_D1_Grado11.html
+
+Recomendación: repositorio PRIVATE.

@@ -1,0 +1,11 @@
+# Archivos locales que no deben versionarse
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+.dev.vars
+node_modules/
+__pycache__/
+*.pyc
